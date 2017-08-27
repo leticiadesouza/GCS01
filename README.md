@@ -32,4 +32,4 @@ python manage.py runserver 0:8000
 
 O acesso deve ser feito através do `localhost:8000`.
 
-
+[![Build Status](https://travis-ci.org/leticiadesouza/GCS01.svg?branch=master)](https://travis-ci.org/leticiadesouza/GCS01)
