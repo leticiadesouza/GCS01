@@ -2,6 +2,7 @@ language: python
 python:
 - '3.6'
 env:
+  - SECRET_KEY = 's7zw!j_b2yd=d9p7^cdmh1^5%br4+c_ha9@^4a+p!e@=atj7nb'
 - DJANGO_VERSION=1.11.4
 install:
 - pip install -r requirements.txt
