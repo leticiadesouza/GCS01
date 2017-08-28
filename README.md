@@ -1,3 +1,11 @@
+#Travis
+
+[![Build Status](https://travis-ci.org/leticiadesouza/GCS01.svg?branch=master)](https://travis-ci.org/leticiadesouza/GCS01)
+
+#CircleCI
+
+[![CircleCI](https://circleci.com/gh/leticiadesouza/GCS01/tree/master.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/leticiadesouza/GCS01/tree/master)
+
 # Django Basico
 
 ## Ambiente de Dev
@@ -31,7 +39,3 @@ python manage.py runserver 0:8000
 ```
 
 O acesso deve ser feito através do `localhost:8000`.
-
-[![CircleCI](https://circleci.com/gh/leticiadesouza/GCS01/tree/master.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/leticiadesouza/GCS01/tree/master)
-
-[![Build Status](https://travis-ci.org/leticiadesouza/GCS01.svg?branch=master)](https://travis-ci.org/leticiadesouza/GCS01)
