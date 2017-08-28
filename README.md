@@ -1,10 +1,10 @@
-#Travis
+# Travis
 
 [![Build Status](https://travis-ci.org/leticiadesouza/GCS01.svg?branch=master)](https://travis-ci.org/leticiadesouza/GCS01)
 
-#CircleCI
+# CircleCI
 
-[![CircleCI](https://circleci.com/gh/leticiadesouza/GCS01/tree/master.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/leticiadesouza/GCS01/tree/master)
+ [![CircleCI](https://circleci.com/gh/leticiadesouza/GCS01.svg?style=svg)](https://circleci.com/gh/leticiadesouza/GCS01)
 
 # Django Basico
 
